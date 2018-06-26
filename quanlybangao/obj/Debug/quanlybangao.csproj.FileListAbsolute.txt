@@ -1,0 +1,14 @@
+C:\Users\Home\Desktop\quanlybangao\quanlybangao\bin\Debug\quanlybangao.exe.config
+C:\Users\Home\Desktop\quanlybangao\quanlybangao\obj\Debug\quanlybangao.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\quanlybangao\quanlybangao\obj\Debug\quanlybangao.AddRiceForm.resources
+C:\Users\Home\Desktop\quanlybangao\quanlybangao\obj\Debug\quanlybangao.BillForm.resources
+C:\Users\Home\Desktop\quanlybangao\quanlybangao\obj\Debug\quanlybangao.CustomerForm.resources
+C:\Users\Home\Desktop\quanlybangao\quanlybangao\obj\Debug\quanlybangao.EmployeeForm.resources
+C:\Users\Home\Desktop\quanlybangao\quanlybangao\obj\Debug\quanlybangao.fHoaDon.resources
+C:\Users\Home\Desktop\quanlybangao\quanlybangao\obj\Debug\quanlybangao.fSanPham.resources
+C:\Users\Home\Desktop\quanlybangao\quanlybangao\obj\Debug\quanlybangao.csproj.GenerateResource.Cache
+C:\Users\Home\Desktop\quanlybangao\quanlybangao\bin\Debug\quanlybangao.exe
+C:\Users\Home\Desktop\quanlybangao\quanlybangao\bin\Debug\quanlybangao.pdb
+C:\Users\Home\Desktop\quanlybangao\quanlybangao\obj\Debug\quanlybangao.Properties.Resources.resources
+C:\Users\Home\Desktop\quanlybangao\quanlybangao\obj\Debug\quanlybangao.exe
+C:\Users\Home\Desktop\quanlybangao\quanlybangao\obj\Debug\quanlybangao.pdb
